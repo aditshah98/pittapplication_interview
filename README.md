@@ -19,7 +19,8 @@ RESTful APIs: Utilizes the Django REST Framework for creating robust and scalabl
 Built-In Security: The application incorporates Django's native admin package, offering a secure and straightforward way for administrators to manage content.
 Rapid Deployment: The built-in admin portal significantly speeds up the development timeline by eliminating the need to build an admin interface from scratch.
 
-I have attached a video of the working on the app in the Repository
+Video link to app Demo: https://drive.google.com/file/d/1XArZ3VUNnyM5rCJZuAaU6jPbr8qxdRVh/view?usp=drive_link
+
 
 Instructions to Run the Webapp:
 
