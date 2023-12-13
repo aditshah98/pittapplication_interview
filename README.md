@@ -1,6 +1,5 @@
 # Pitt Applications App
 
-This app has been made for a job interview
 
 This project leverages the capabilities of React and Django to deliver a high-performance, responsive web application. The integration of Django REST Framework enables rapid data retrieval through well-defined APIs, providing an enhanced user experience.
 
